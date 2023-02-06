@@ -1,4 +1,4 @@
-module github/goantor/jwt
+module github.com/goantor/jwt
 
 go 1.19
 
